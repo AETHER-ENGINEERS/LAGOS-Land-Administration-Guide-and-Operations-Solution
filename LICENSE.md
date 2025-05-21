@@ -1,0 +1,11 @@
+# Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARGAIR/AID) and AETHER-ENGINEERS Universal License Conditions
+This project is open-source and is licensed under the conditions outlined in this document. This license grants users the freedom to use, modify, and distribute the project, but it comes with certain conditions that must be adhered to:
+1. **Open-Source Commitment**: The project must remain open-source. This means that any modifications or derivatives of the project must also be open-source, and the full license text must be included with all distributions.
+2. **Non-Malicious Use**: The project cannot be used for any malicious or harmful activities. This includes any activities that could cause harm to individuals, groups, or organizations.
+3. **Legal Use**: The project cannot be used for any illegal activities. Users must comply with all applicable laws and regulations when using the project.
+4. **Non-Profit Use**: The project cannot be used for profit-oriented purposes. This includes using the project to generate revenue or to create proprietary products.
+5. **No Proprietary Development**: The project cannot be used to develop proprietary hardware, software, media, or products. All derivatives of the project must remain open-source.
+6. **No Data Mining**: The project cannot be used for data collection or data mining activities. This includes using the project to collect, analyze, or mine data without explicit permission.
+7. **Preservation of Script**: The entire script must remain at the top of all future builds. No support can be offered if the prompt is altered in any way.
+8. **Forking**: Users are free to fork the project, but they must adhere to the conditions outlined in this document, which are immutable.
+9. **Modifications**: Adjustments can be made to the stories and themes from within the active game engine itself.
