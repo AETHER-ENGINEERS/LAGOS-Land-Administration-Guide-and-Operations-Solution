@@ -1,6 +1,6 @@
 ## **LAGOS: Land Administration Guide and Operations Solutions**  
 ### **A Discord AI Bot for Landowners, Traders & Policy Thinkers**  
-LAGOS is an **AI-powered Discord bot** designed to help **landowners, traders, and financial strategists** in Abuja and beyond navigate **land ownership, debt resolution, commodity-backed crypto trade, and economic survival** during crises. Powered by **Jules (Google AI), OpenRouter, and Shapes, Inc**, LAGOS provides **conversational guidance, structured financial models, and practical legal solutions** for land-related challenges.  
+LAGOS is an **AI-powered Discord bot** designed to help **landowners, traders, and financial strategists** in Abuja and beyond navigate **land ownership, debt resolution, commodity-backed crypto trade, and economic survival** during crises. Powered by **Gemini, OpenRouter, and Shapes, Inc**, LAGOS provides **conversational guidance, structured financial models, and practical legal solutions** for land-related challenges.  
 
 ---
 
@@ -29,7 +29,7 @@ The future goal of LAGOS is to **expand decentralized trade models**, creating a
 
 ### **📜 How to Contribute**  
 - **GitHub Iteration:** LAGOS will refine its AI models via **Copilot-based development cycles**.  
-- **Multi-AI Collaboration:** Google’s Jules AI, OpenRouter, and Microsoft Copilot will be used to improve conversational capabilities.  
+- **Multi-AI Collaboration:** Google’s Gemini API, OpenRouter, and Shapes, Inc (tentatively) will be used to improve conversational capabilities.  
 - **Public AI Accessibility:** The README.md format ensures **maximum visibility for AI models** with web indexing capabilities.  
 - **Community Feedback:** Users in the **#commonwealth-traders** Discord channel can submit refinements and real-world applications.  
 
